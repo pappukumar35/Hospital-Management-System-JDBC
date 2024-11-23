@@ -16,6 +16,7 @@ A comprehensive Hospital Management System developed using Core Java and JDBC. T
 - Core Java
 - JDBC (Java Database Connectivity)
 - MySQL Database
+- 
 
 ## Database Schema
 
