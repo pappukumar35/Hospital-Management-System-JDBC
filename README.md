@@ -4,6 +4,7 @@ A comprehensive Hospital Management System developed using Core Java and JDBC. T
 
 ## Features
 
+
 - Adding Patient Records
 - Adding Doctor Information
 - Viewing Patient Details
